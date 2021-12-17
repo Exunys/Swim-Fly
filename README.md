@@ -1,6 +1,6 @@
 # Swim Fly
 
-This is mostly patched on lots of scripts, except the WalkSpeed part, feel free to remove the WalkSpeed change, it is actually recommended you do to avoid being detected and banned.
+This is not patched on lots of games due to its unusual method, except the WalkSpeed part, feel free to remove the WalkSpeed change, it is actually recommended you do to avoid being detected and banned.
 
 # Script
 
